@@ -1,0 +1,58 @@
+{
+    "version": "4.5.4",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "line1",
+            "points": [
+                [
+                    383,
+                    465
+                ],
+                [
+                    539,
+                    1072
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "line",
+            "flags": {}
+        },
+        {
+            "label": "line2",
+            "points": [
+                [
+                    557,
+                    353
+                ],
+                [
+                    1274,
+                    277
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "line",
+            "flags": {}
+        },
+        {
+            "label": "line3",
+            "points": [
+                [
+                    626,
+                    1072
+                ],
+                [
+                    1913,
+                    477
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "line",
+            "flags": {}
+        }
+    ],
+    "imagePath": "cam_04.png",
+    "imageData": null,
+    "imageHeight": 1080,
+    "imageWidth": 1920
+}
